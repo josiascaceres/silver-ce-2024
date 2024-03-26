@@ -1,3 +1,8 @@
+"""
+Este es el solucionario del ejercitario de manipulacion de Strings de la UNI. Ante cualquier consulta:
+"""
+
+
 #1
 """
 nombre_usuario = "Josias"
